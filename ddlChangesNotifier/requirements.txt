@@ -1,0 +1,7 @@
+boto3==1.26.112
+botocore
+cryptography==3.4.8
+bcrypt==3.2.2
+jsondiff==2.0.0
+psycopg2-binary
+urllib3
